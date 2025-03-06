@@ -33,12 +33,11 @@ It achieves the following results on the evaluation set:
 
 ## Intended uses & limitations
 
-Mainly intended to be used at the backend of a chatbot application meant to assist children and teenager with knowledge of business and finances.
+Mainly intended to be used at the backend of a chatbot application meant to assist children and teenagers with knowledge of business and finances.
 
 ## Training and evaluation data
 
 - Total number of samples: 17480
-- 
 - Number of Training Samples: 13984
 - Number of Validation / Test Samples: 3496
 
